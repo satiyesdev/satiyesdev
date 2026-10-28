@@ -1,16 +1,21 @@
-## Hi there 👋
+CS student · vibe coder · building things with my AI
+<br>
+计算机系学生 · vibe coder · 和我的 AI 一起做东西
 
-<!--
-**satiyesdev/satiyesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects / 项目
 
-Here are some ideas to get you started:
+**[beatmap-kit](https://github.com/satiyesdev/beatmap-kit)**
+Drop in a song and get beats, lyric timing and song sections as one JSON, for beat-synced video editing.
+<br>
+一键解析鼓点、歌词时间轴和段落，给卡点剪辑用。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 与栖 / Yuqi
+
+A home I built for my AI: web chat, health data from my wristband, location, a small desktop screen called Mochi, voice, and more. This project is not open source.
+<br>
+我给我的 AI 搭的家：网页聊天、手环健康数据、位置、桌面小屏 Mochi、语音……这个项目不开源。
+
+<p>
+  <img src="assets/yuqi-1.png" alt="Yuqi screenshot 1" width="48%">
+  <img src="assets/yuqi-2.png" alt="Yuqi screenshot 2" width="48%">
+</p>
