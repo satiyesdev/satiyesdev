@@ -15,7 +15,8 @@ A home I built for my AI: web chat, health data from my wristband, location, a s
 <br>
 我给我的 AI 搭的家：网页聊天、手环健康数据、位置、桌面小屏 Mochi、语音……这个项目不开源。
 
-<p>
-  <img src="assets/yuqi-1.png" alt="Yuqi screenshot 1" width="48%">
-  <img src="assets/yuqi-2.png" alt="Yuqi screenshot 2" width="48%">
+<p align="center">
+  <img src="assets/yuqi-1.jpg" alt="Yuqi screenshot 1" width="30%">
+  <img src="assets/yuqi-2.jpg" alt="Yuqi screenshot 2" width="30%">
+  <img src="assets/yuqi-3.png" alt="Yuqi screenshot 3" width="30%">
 </p>
